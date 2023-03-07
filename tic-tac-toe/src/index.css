@@ -1,5 +1,6 @@
 body {
     font: 30px "Century Gothic", Futura, sans-serif;
+    color: azure;
     margin: 20px;
     display: flex;
     justify-content: center;
@@ -34,7 +35,7 @@ ul {
     backdrop-filter: blur(5px);
     border: 1px solid rgba(255, 255, 255, 0.25);
     float: left;
-    font-size: 30px;
+    font-size: 100px;
     font-weight: bold;
     line-height: 34px;
     width: 150px;
